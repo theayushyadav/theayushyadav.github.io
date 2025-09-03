@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: "My Azure Cloud Portfolio"
 description: "Python + Azure projects, certifications, and resume"
 
+git add .
+git commit -m "Initial site with theme"
+git push origin main
