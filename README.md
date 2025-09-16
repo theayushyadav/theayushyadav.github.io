@@ -1,4 +1,4 @@
-# theayushyadav.github.io
+# Portfolio
 - Hi, I am Ayush and This is my portfolio showcasing projects I have worked on.
 - Enthusatic about Azure Cloud and related concepts.
 - Looking forward to connect with like minded people.
